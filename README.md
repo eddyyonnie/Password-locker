@@ -19,9 +19,9 @@ Eddy Yonnie
 ## Technologies Used
     Python
 ## Setup instructions
-    1. Find the or simply type this url in your browser https://eddyyonnie.github.io/Password-locker
-    2. Navigate through terminal and enter details required.
-    3. click search to retrieve results.
+    
+    1. Navigate through terminal and enter details required.
+    2. click search to retrieve results.
    
 
 ## Live Link
