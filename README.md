@@ -21,10 +21,7 @@ Eddy Yonnie
 ## Setup instructions
     
     1. Navigate through terminal and enter details required.
-    2. click search to retrieve results.
-   
-## Dependencies
-Run `ng serve` for a dev server. Navigate to `http://localhost:4256`. The app will automatically reload if you change any of the source files.
+    2. click search to retrieve results.  
 
 ## CONTACTS
     1. acerzach@gmail.com
