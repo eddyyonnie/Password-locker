@@ -24,9 +24,8 @@ Eddy Yonnie
     2. click search to retrieve results.  
 
 ## CONTACTS
-    1. acerzach@gmail.com
-    2. +(254)716-240-746
-
+  1.eddyyonnie@gmail.com
+  2.+254 (790538630)
 
 ## Development server
 
