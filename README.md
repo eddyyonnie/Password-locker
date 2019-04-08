@@ -17,13 +17,12 @@ Eddy Yonnie
     Python
 ## Setup instructions
     
-    1. Navigate through terminal and enter details required.
-    2. click enter to retrieve results.  
+   * 1. Navigate through terminal and enter details required.
+  *  2. click enter to retrieve results.  
 
 ## CONTACTS
-  1.eddyyonnie@gmail.com
-  2.+254 (790538630)
+ * eddyyonnie@gmail.com
+ * +254 (790538630)
 
 ## License
-C22020201## License
 Copyright © 2019, Eddy Yonnie. [MIT LICENSE](LICENSE)
