@@ -23,10 +23,6 @@ Eddy Yonnie
     1. Navigate through terminal and enter details required.
     2. click search to retrieve results.
    
-
-## Live Link
-https://eddyyonnie.github.io/GIT-HUB-SEARCH
-
 ## Dependencies
 Run `ng serve` for a dev server. Navigate to `http://localhost:4256`. The app will automatically reload if you change any of the source files.
 
