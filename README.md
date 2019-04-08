@@ -6,11 +6,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Eddy Yonnie 
 
 ## Behavior driven developement
-| Behaviour- should display  | Input Example-when it receives|output Example-should return| 
-| :--------------------------| :--------------------------   |:-------------------------- |
-| enter user name            |  | Display repositories       |
-| onclick search             | click the search button       | searches for asked info    |
-|--------------------------  |------------------------------ |----------------------------|      
+| Behaviour- should display   | Input Example-when it receives|output Example-should return| 
+| :---------------------------| :--------------------------   |:-------------------------- |
+| username required           | input username                | username dispalayed        |
+| passwordrequired            |  input password               | password displayed         |   
+| save                        | select save                   | password saved             |
+|  delete                     | select delete                 | password deleted           |
 
 ## Description
 * This is a Web Application project where you could search for github users and their repositories. The project is made with Angular 7.It has a simple easy to use user interface that every user would love interaction with.  
