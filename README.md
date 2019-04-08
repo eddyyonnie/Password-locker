@@ -27,9 +27,6 @@ Eddy Yonnie
   1.eddyyonnie@gmail.com
   2.+254 (790538630)
 
-## Development server
-
-
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
