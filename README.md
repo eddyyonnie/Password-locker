@@ -19,7 +19,7 @@ Eddy Yonnie
 ## Technologies Used
     Python
 ## Setup instructions
-    1. Find my repository in github or simply type this url in your browser https://eddyyonnie.github.io/GIT-HUB-SEARCH
+    1. Find my repository in github or simply type this url in your browser https://eddyyonnie.github.io/Pass
     2. Navigate through the Application and enter details required.
     3. click search to retrieve results.
    
