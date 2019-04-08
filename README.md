@@ -3,7 +3,7 @@
 Eddy Yonnie 
 
 ## Behavior driven developement
-| Behaviour- should display   | Input Example-when it receives|output Example-should return| 
+| Behaviour- should display   | Input Example-what it receives|output Example-should return| 
 | :---------------------------| :--------------------------   |:-------------------------- |
 | username required           | input username                | username dispalayed        |
 | passwordrequired            |  input password               | password displayed         |   
@@ -18,7 +18,7 @@ Eddy Yonnie
 ## Setup instructions
     
     1. Navigate through terminal and enter details required.
-    2. click search to retrieve results.  
+    2. click enter to retrieve results.  
 
 ## CONTACTS
   1.eddyyonnie@gmail.com
