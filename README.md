@@ -14,7 +14,7 @@ Eddy Yonnie
 |  delete                     | select delete                 | password deleted           |
 
 ## Description
-* .  
+* The app actually allows a user to create a credential account as well as delete while inputting the name and password for the new account.Options of logging out are also available with a  assuarance that the credential account is well secured.
 
 ## Technologies Used
     Python
