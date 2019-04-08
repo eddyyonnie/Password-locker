@@ -8,7 +8,7 @@ Eddy Yonnie
 ## Behavior driven developement
 | Behaviour- should display  | Input Example-when it receives|output Example-should return| 
 | :--------------------------| :--------------------------   |:-------------------------- |
-| enter user name            | write username on github      | Display repositories       |
+| enter user name            |  | Display repositories       |
 | onclick search             | click the search button       | searches for asked info    |
 |--------------------------  |------------------------------ |----------------------------|      
 
