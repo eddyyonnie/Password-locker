@@ -17,8 +17,7 @@ Eddy Yonnie
 * This is a Web Application project where you could search for github users and their repositories. The project is made with Angular 7.It has a simple easy to use user interface that every user would love interaction with.  
 
 ## Technologies Used
-    1. Angular.
-    2. Bootstrap.
+    Python
 ## Setup instructions
     1. Find my repository in github or simply type this url in your browser https://eddyyonnie.github.io/GIT-HUB-SEARCH
     2. Navigate through the Application and enter details required.
