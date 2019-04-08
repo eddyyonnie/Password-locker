@@ -1,7 +1,4 @@
 # Password-Locker
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.Its a proggramme where the user is allowed to view,upvote or downvote and also upload a new quote.
-
 ## Authors
 Eddy Yonnie 
 
